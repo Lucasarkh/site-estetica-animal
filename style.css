@@ -51,9 +51,18 @@ h2 {
     font-weight: bold;
 }
 
-.apresentacao {
+.container {
     display: flex;
-    margin: 0 0 0 30px;
+    justify-content: space-between;
+}
+
+.textcontent li {
+    margin: 0 0 20px 0;
+    margin-left: 150px;
+}
+
+.cao__tosando {
+     
 }
 
 .banner__home {
