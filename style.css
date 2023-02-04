@@ -85,7 +85,7 @@ h2 {
 
 .textcontent li {
     margin: 0 0 20px 0;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 
@@ -97,6 +97,12 @@ h2 {
     border-radius: 15px 15px;
     box-shadow: 5px 10px 20px;
     border: 2px solid rgb(247, 247, 247);
+    transition: 1.5s;
+}
+
+.cao__tosando:hover {
+    transition: 1.5s;
+    width: 550px;
 }
 
 /*CSS FOOTER*/
