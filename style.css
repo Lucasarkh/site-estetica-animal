@@ -296,8 +296,13 @@ form div {
         margin: 0 20px;
     }
 
+    .home__main section {
+        width: 100vw;
+        margin: 0 auto;
+    }
+
     .container {
-        display: inline-block;
+        display: block;
         margin: 0;
     }
 
@@ -327,7 +332,7 @@ form div {
         border-radius: 15px 15px;
     }
 
-    /* CSS RESPONSIVO MAIN HOME */
+    /* CSS RESPONSIVO MAIN CONTATOS */
 
     .container__contato {
         display: inline-block;
