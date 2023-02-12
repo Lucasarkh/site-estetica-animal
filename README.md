@@ -1,2 +1,1 @@
-# site_estetica_animal
-Projeto de site visando apresentar os serviços de estética animal da empresa estéticão.
+O projeto consiste em desenvolver um site para uma empresa de estética animal. Ele é desenvolvido utilizando HTML e CSS. O site inclui informações sobre os serviços oferecidos pela empresa de estética animal, incluindo detalhes sobre os tratamentos disponíveis e informações de contato. Aém disso possui fotos de animais que foram atendidos e um video de apresentação de um dos serviços.
