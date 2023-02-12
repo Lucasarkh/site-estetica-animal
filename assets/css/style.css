@@ -5,7 +5,7 @@ body {
 }
 
 .home__header {
-    background: url(background_header.jpg) cover;
+    background: url(../img/background_header.jpg);
 }
 
 .contato__home li {
@@ -59,7 +59,7 @@ nav li a:hover {
 
 .home__main {
     border-bottom: 5px solid rgba(0, 0, 0, 0.432);
-    background: url(backgorund_main.jpg) center/cover;
+    background: url(../img/backgorund_main.jpg) center/cover;
 }
 
 h2 {
@@ -123,7 +123,7 @@ h3 {
 /* PÁGINA HOME => CSS FOOTER*/
 
 .home__footer {
-    background: url(background_footer.jpg) center/cover;
+    background: url(../img/background_footer.jpg) center/cover;
 }
 
 .container__footer {
@@ -161,7 +161,7 @@ h4 {
 /* PÁGINA CONTATOS => CSS HEADER */
 
 body {
-    background: url(background_body_contato.jpg) center/cover;
+    background: url(../img/background_body_contato.jpg) center/cover;
 }
 
 .contato__navegacao {
